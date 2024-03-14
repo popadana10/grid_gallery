@@ -8,10 +8,9 @@ Grid Gallery is a project developed as part of the HTML/CSS course at Business C
 - Customizable design to suit individual preferences
 - Ideal for presenting portfolios, projects, or products
 
-## Technologies Used
+## Website link
 
-- HTML
-- CSS
+https://popadana10.github.io/grid_gallery/
 
 ## Get in Touch
 
